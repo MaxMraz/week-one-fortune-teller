@@ -256,10 +256,7 @@ public class WeekOneFortuneTeller {
 		System.out.println("In your bank account, you will have " + bankBalance);
 		System.out.println("Your vacation home will be " + vacationHome);
 		System.out.println("Your mode of transportation will be " + car);
-		if (firstName.equalsIgnoreCase("Brian") || firstName.equalsIgnoreCase("Donnie")) {
-			System.out.println(
-					"You will one day look back on the time you gave a great grade to an entertaining\ncoding project as a pivitol moment in your career.");
-		}
+
 		System.out.println("Enjoy your retirement.");
 
 		input.close();
