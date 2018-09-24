@@ -258,6 +258,8 @@ public class WeekOneFortuneTeller {
 		System.out.println("Your mode of transportation will be " + car);
 
 		System.out.println("Enjoy your retirement.");
+		
+		System.out.println("Hey Max!");
 
 		input.close();
 
